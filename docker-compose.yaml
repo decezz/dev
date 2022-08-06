@@ -1,5 +1,5 @@
 services:
-  areyouok:
+  develop:
     build: .
     ports:
       - 80:80
